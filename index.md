@@ -1,4 +1,4 @@
-# Evaluación
+# Evaluación ([ver en versión pdf](https://github.com/javieriesch/1ESO/blob/master/cuestionario.pdf)
 
 Se realizará un trabajo sobre la película /Atrapado en el Tiempo/, respondiendo al siguiente cuestionario:
 
@@ -34,7 +34,7 @@ Instrucciones para realizar el trabajo:
 
 -   Una vez terminado, el trabajo se enviará en formato pdf a:
 
-`javier_santacruz@iescabodelahuerta.com`
+javier_santacruz@iescabodelahuerta.com
 
 -   En el título del correo figurará:
     -   La palabra \"ENTREGA\", en mayúsculas
@@ -44,9 +44,9 @@ Instrucciones para realizar el trabajo:
 
 Por ejemplo: `ENTREGA Miguel Cervantes 1ESO A`
 
-
 # Materiales de clase
-## Película: https://www.youtube.com/watch?v=__QYN_ejxrg&t=740s
+## Película:
+https://www.youtube.com/watch?v=__QYN_ejxrg&t=740s
 
 ## Enlaces de interés:
 - Datos sobre la película: https://www.imdb.com/title/tt0107048/
