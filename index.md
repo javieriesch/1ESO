@@ -75,10 +75,6 @@ https://www.youtube.com/watch?v=__QYN_ejxrg&t=740s
 Anuncios oficiales, acerca de las clases, su ausencia y su regreso, etc.
 ## Contacto: 
 [javier_santacruz@iescabodelahuerta.com](mailto:javier_santacruz@iescabodelahuerta.com)
-<<<<<<< HEAD
-
 
 [^1]: <https://es.wikipedia.org/wiki/Eterno_retorno> puede ser un buen
     punto de partida.
-=======
->>>>>>> 8665f6115768eaa22e7ab6f1d512e16764eb1e2a
