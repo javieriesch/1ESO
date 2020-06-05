@@ -12,7 +12,9 @@ VALORES ÉTICOS
 La calificación final en la asignatura será, básicamente, la media de las calificaciones de la primera y la segunda evaluación. A esa nota media se le podrá sumar hasta un máximo de dos puntos que corresponderá al trabajo a distancia (cuaderno, trabajos, etc.) realizado por el/la alumno/a durante el tercer trimestre.
 La buena actitud durante el curso podrá sumar hasta un máximo de un punto a la nota final.
 
-# Evaluación [(ver en versión pdf)](https://github.com/javieriesch/1ESO/blob/master/cuestionario.pdf)
+# Evaluación 
+
+[(ver en versión pdf)](https://github.com/javieriesch/1ESO/blob/master/cuestionario.pdf)
 
 Se realizará un trabajo sobre la película *Atrapado en el Tiempo*, respondiendo al siguiente cuestionario:
 
@@ -46,7 +48,7 @@ Instrucciones para realizar el trabajo:
 > vivir,6​ la virtud, la felicidad y el deber\"
 > (<https://es.wikipedia.org/wiki/%C3%89tica>)
 
--   El trabajo se enviará el 8 de junio como tarde, en formato pdf, a:
+- El trabajo se enviará el 8 de junio como tarde, en formato pdf, a:
 
 javier_santacruz@iescabodelahuerta.com
 
